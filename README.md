@@ -1,2 +1,3 @@
 # SimpleSpringBootCI-CD
-Simple SpringBoot application withg CI/CD
+
+Simple SpringBoot application with CI/CD
